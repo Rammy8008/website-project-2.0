@@ -77,3 +77,193 @@ nav a {
 } 
 
  
+
+ 
+
+/* PAGE WRAPPER */ 
+
+.page { 
+
+    display: none; 
+
+} 
+
+ 
+
+/* BANNERS */ 
+
+.home-banner, 
+
+.help-banner, 
+
+.dieback-top-banner { 
+
+    padding: 55px 0; 
+
+    text-align: center; 
+
+    color: white; 
+
+    background: #2e7d32; 
+
+} 
+
+ 
+
+.dieback-top-banner { 
+
+    background: #8b2e2e; 
+
+} 
+
+ 
+
+/* SECTION TITLE BAR */ 
+
+.dieback-title-bar { 
+
+    background: #5d4037; 
+
+    color: white; 
+
+    padding: 22px 0; 
+
+    text-align: center; 
+
+    font-size: 28px; 
+
+    font-weight: bold; 
+
+} 
+
+ 
+
+/* CONTENT AREA */ 
+
+.container { 
+
+    width: 70%; 
+
+    max-width: 900px; 
+
+    margin: auto; 
+
+    padding-top: 20px; 
+
+} 
+
+ 
+
+/* IMAGES */ 
+
+.image-row { 
+
+    display: flex; 
+
+    justify-content: space-between; 
+
+    margin: 30px 0; 
+
+} 
+
+ 
+
+.image-row img { 
+
+    width: 32%; 
+
+    height: 260px; 
+
+    object-fit: cover; 
+
+    border-radius: 10px; 
+
+} 
+
+ 
+
+/* POSTER BOX STYLE  */ 
+
+.poster-box { 
+
+    background: #ffffff; 
+
+    padding: 25px; 
+
+    border-radius: 14px; 
+
+    box-shadow: 0 6px 14px rgba(0,0,0,0.18); 
+
+    margin-bottom: 30px; 
+
+    display: flex; 
+
+    gap: 20px; 
+
+    align-items: flex-start; 
+
+} 
+
+ 
+
+.poster-box .icon { 
+
+    font-size: 40px; 
+
+    flex-shrink: 0; 
+
+} 
+
+ 
+
+.poster-box .text h3 { 
+
+    font-size: 24px; 
+
+    font-weight: 800; 
+
+    margin: 0 0 10px 0; 
+
+} 
+
+ 
+
+.poster-box .text p, 
+
+.poster-box .text li { 
+
+    font-size: 19px; 
+
+} 
+
+ 
+
+ 
+
+ 
+
+/* FOOTERS */ 
+
+.home-footer, 
+
+.dieback-footer, 
+
+.help-footer  
+
+{ 
+
+    padding: 35px 0; 
+
+    text-align: center; 
+
+    color: white; 
+
+    background: #5d4037; 
+
+     
+
+} 
+
+ 
+
+ 
